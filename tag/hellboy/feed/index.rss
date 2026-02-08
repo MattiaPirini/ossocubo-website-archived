@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hellboy Archives | Ossocubo</title>
+	<atom:link href="https://www.ossocubo.com/tag/hellboy/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ossocubo.com/tag/hellboy/</link>
+	<description>a small game development team from Switzerland and Italy.</description>
+	<lastBuildDate>Wed, 26 Jun 2019 14:37:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.ossocubo.com/wp-content/uploads/2014/05/ossocubo-skull-150x112.png</url>
+	<title>hellboy Archives | Ossocubo</title>
+	<link>https://www.ossocubo.com/tag/hellboy/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">103924507</site>	<item>
+		<title>New artwork!</title>
+		<link>https://www.ossocubo.com/blog/new-artwork/</link>
+		
+		<dc:creator><![CDATA[Francesco Pirini]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2016 18:48:06 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blue volta]]></category>
+		<category><![CDATA[concept art]]></category>
+		<category><![CDATA[hellboy]]></category>
+		<guid isPermaLink="false">http://www.ossocubo.com/?p=236</guid>
+
+					<description><![CDATA[<p>I finally read Hellboy and i really liked the super expressive way Mignola uses black and white . Then i started to draw and came up with this random artwork!</p>
+<p>The post <a href="https://www.ossocubo.com/blog/new-artwork/">New artwork!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>I finally read <em>Hellboy</em> and i really liked the super expressive way Mignola uses black and white .</p>
+<p>Then i started to draw and came up with this random artwork!</p>
+<img fetchpriority="high" decoding="async" class="alignnone wp-image-237 size-large" src="https://www.ossocubo.com/wp-content/uploads/2016/02/bluevoltaboy-714x1024.jpg" alt="bluevolta_random" width="640" height="918" srcset="https://www.ossocubo.com/wp-content/uploads/2016/02/bluevoltaboy-714x1024.jpg 714w, https://www.ossocubo.com/wp-content/uploads/2016/02/bluevoltaboy-209x300.jpg 209w" sizes="(max-width: 640px) 100vw, 640px" />
+<p>The post <a href="https://www.ossocubo.com/blog/new-artwork/">New artwork!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">236</post-id>	</item>
+	</channel>
+</rss>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>demo Archives | Ossocubo</title>
+	<atom:link href="https://www.ossocubo.com/tag/demo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ossocubo.com/tag/demo/</link>
+	<description>a small game development team from Switzerland and Italy.</description>
+	<lastBuildDate>Tue, 02 Feb 2016 14:19:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.ossocubo.com/wp-content/uploads/2014/05/ossocubo-skull-150x112.png</url>
+	<title>demo Archives | Ossocubo</title>
+	<link>https://www.ossocubo.com/tag/demo/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">103924507</site>	<item>
+		<title>So&#8230; what&#8217;s the plan?</title>
+		<link>https://www.ossocubo.com/blog/so-whats-the-plan/</link>
+		
+		<dc:creator><![CDATA[Luca]]></dc:creator>
+		<pubDate>Tue, 02 Feb 2016 09:40:21 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blue volta]]></category>
+		<category><![CDATA[demo]]></category>
+		<category><![CDATA[devlog]]></category>
+		<category><![CDATA[ossocubo]]></category>
+		<guid isPermaLink="false">http://www.ossocubo.com/?p=231</guid>
+
+					<description><![CDATA[<p>Until a couple of months ago, the search for a publisher was not a priority for us. At first, Blue Volta was a project to express our strengths and skills, which we worked on in our spare time. As time has passed, Blue Volta has grown in shape and size, to become a focused full-time...  <a class="excerpt-read-more" href="https://www.ossocubo.com/blog/so-whats-the-plan/" title="Read So&#8230; what&#8217;s the plan?">Read more &#187;</a></p>
+<p>The post <a href="https://www.ossocubo.com/blog/so-whats-the-plan/">So&#8230; what&#8217;s the plan?</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>Until a couple of months ago, the search for a publisher was not a priority for us. At first, Blue Volta was a project to express our strengths and skills, which we worked on in our spare time. As time has passed, Blue Volta has grown in shape and size, to become a focused full-time project.</p>
+<p>For this reason, we are currently working to develop a playable version of the first chapter of the game. The aim is to be able to provide a polished and concrete demo version to help us in our search for funds and financing.</p>
+<p>&nbsp;</p>
+<div id="attachment_232" style="width: 869px" class="wp-caption aligncenter"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-232" class="wp-image-232" src="https://www.ossocubo.com/wp-content/uploads/2016/02/PANO_20151210_213005.jpg" alt="ossocubo's team at work" width="859" height="291" srcset="https://www.ossocubo.com/wp-content/uploads/2016/02/PANO_20151210_213005.jpg 1719w, https://www.ossocubo.com/wp-content/uploads/2016/02/PANO_20151210_213005-300x102.jpg 300w, https://www.ossocubo.com/wp-content/uploads/2016/02/PANO_20151210_213005-1024x347.jpg 1024w" sizes="(max-width: 859px) 100vw, 859px" /><p id="caption-attachment-232" class="wp-caption-text">A typical Ossocubo meeting basically consists of me, Mattia and Francesco shouting orders to Alberto and watching him at work</p></div>
+<p>&nbsp;</p>
+<p>Personally, I&#8217;m very happy with how well the demo, a labour of love, is coming along, but is still a work-in-progress. For instance, we have had a lot of interest from many talented composers to cover the audio aspect of the game (e.g. soundtrack and soundeffects). We are still receiving e-mails expressing interest, and we will soon begin to assess and contact the right person or persons for the job.</p>
+<p>While the sound is definitely the less developed side of the Blue Volta, there are so other areas that need further refinement, such as animations and interface. Despite all this, the demo is at a well-advanced stage.</p>
+<p>During this week, I&#8217;ll adjust some dialogues, write some new ones, and finalize a couple of puzzles.</p>
+<p>The post <a href="https://www.ossocubo.com/blog/so-whats-the-plan/">So&#8230; what&#8217;s the plan?</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">231</post-id>	</item>
+	</channel>
+</rss>

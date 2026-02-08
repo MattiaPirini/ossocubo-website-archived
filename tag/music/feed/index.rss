@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>music Archives | Ossocubo</title>
+	<atom:link href="https://www.ossocubo.com/tag/music/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ossocubo.com/tag/music/</link>
+	<description>a small game development team from Switzerland and Italy.</description>
+	<lastBuildDate>Thu, 27 Jun 2019 11:00:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.ossocubo.com/wp-content/uploads/2014/05/ossocubo-skull-150x112.png</url>
+	<title>music Archives | Ossocubo</title>
+	<link>https://www.ossocubo.com/tag/music/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">103924507</site>	<item>
+		<title>Habemus composer!</title>
+		<link>https://www.ossocubo.com/blog/habemus-composer/</link>
+		
+		<dc:creator><![CDATA[Luca]]></dc:creator>
+		<pubDate>Wed, 01 Feb 2017 10:58:34 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blue volta]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[soundtrack]]></category>
+		<guid isPermaLink="false">http://www.ossocubo.com/?p=301</guid>
+
+					<description><![CDATA[<p>We have a composer for Blue Volta. After a long search for someone who would share our vision on Blue Volta, we can finally say that we found the right musician for the project. So we officially welcome aboard Paolo Giacci, talented composer made in Abruzzo. https://www.paologiacci.com Paolo is working on the score of Blue...  <a class="excerpt-read-more" href="https://www.ossocubo.com/blog/habemus-composer/" title="Read Habemus composer!">Read more &#187;</a></p>
+<p>The post <a href="https://www.ossocubo.com/blog/habemus-composer/">Habemus composer!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We have a composer for Blue Volta. After a long search for someone who would share our vision on Blue Volta, we can finally say that we found the right musician for the project.<br />
+So we officially welcome aboard Paolo Giacci, talented composer made in Abruzzo.</p>
+<p><a href="https://www.paologiacci.com">https://www.paologiacci.com</a></p>
+<p><iframe title="Spotlight by Paolo Giacci" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F192791456&#038;show_artwork=true&#038;maxheight=960&#038;maxwidth=640"></iframe></p>
+<p>Paolo is working on the score of <a href="https://www.ossocubo.com/blue-volta/">Blue Volta</a> since some time now and the result is exactly what we wanted, as he managed to blend his compositions with the atmospheres we are building around Zeno and his story.</p>
+<p>I’ll leave you with a little moody taste of the Blue Volta soundtrack.</p>
+<p>Luca</p>
+<p><iframe title="&quot;Blue Volta&quot; OST (coming 2017) by Paolo Giacci" width="640" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&#038;url=https%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F296575435&#038;show_artwork=true&#038;maxheight=960&#038;maxwidth=640"></iframe></p>
+<p>&nbsp;</p>
+<p>The post <a href="https://www.ossocubo.com/blog/habemus-composer/">Habemus composer!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">301</post-id>	</item>
+	</channel>
+</rss>

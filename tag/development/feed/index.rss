@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>development Archives | Ossocubo</title>
+	<atom:link href="https://www.ossocubo.com/tag/development/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ossocubo.com/tag/development/</link>
+	<description>a small game development team from Switzerland and Italy.</description>
+	<lastBuildDate>Fri, 28 Jun 2019 16:04:05 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.ossocubo.com/wp-content/uploads/2014/05/ossocubo-skull-150x112.png</url>
+	<title>development Archives | Ossocubo</title>
+	<link>https://www.ossocubo.com/tag/development/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">103924507</site>	<item>
+		<title>Blue Volta is dead, long live Blue Volta!</title>
+		<link>https://www.ossocubo.com/blog/blue-volta-is-dead-long-live-blue-volta/</link>
+		
+		<dc:creator><![CDATA[Luca]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2019 15:58:51 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[blue volta]]></category>
+		<category><![CDATA[development]]></category>
+		<guid isPermaLink="false">http://www.ossocubo.com/?p=651</guid>
+
+					<description><![CDATA[<p>We knew that developing a game would not be easy, and that looking for someone to finance a classic point and click graphic adventure in 2017 would have made us sweat a lot. However, something happened that forced us to slow down and re-evaluate the project overall: life.  <a class="excerpt-read-more" href="http://www.ossocubo.com/blog/blue-volta-is-dead-long-live-blue-volta/" title="Read Blue Volta is dead, long live Blue Volta!">Read more »</a></p>
+<p>The post <a href="https://www.ossocubo.com/blog/blue-volta-is-dead-long-live-blue-volta/">Blue Volta is dead, long live Blue Volta!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<h3><strong><a href="https://www.ossocubo.com/wp-content/uploads/2019/03/blue_volta_daphnehouse_screen.jpg" target="_blank" rel="noopener noreferrer" data-rel="lightbox-image-0" data-rl_title="" data-rl_caption="" title=""><img fetchpriority="high" decoding="async" class="aligncenter wp-image-336 size-large" src="https://www.ossocubo.com/wp-content/uploads/2019/03/blue_volta_daphnehouse_screen-1024x576.jpg" alt="" width="640" height="360" srcset="https://www.ossocubo.com/wp-content/uploads/2019/03/blue_volta_daphnehouse_screen-1024x576.jpg 1024w, https://www.ossocubo.com/wp-content/uploads/2019/03/blue_volta_daphnehouse_screen-300x170.jpg 300w, https://www.ossocubo.com/wp-content/uploads/2019/03/blue_volta_daphnehouse_screen.jpg 1244w" sizes="(max-width: 640px) 100vw, 640px" /></a><br />
+ENGLISH</strong></h3>
+<p>We knew that developing a game would not be easy, and that looking for someone to finance a classic point and click graphic adventure in 2017 would have made us sweat a lot. However, something happened that forced us to slow down and re-evaluate the project overall: life.</p>
+<p>Let me explain: between 2017 and 2018 we contacted various publishers looking for a solid base to be able to develop Blue Volta and survive (aka &#8220;eating panini&#8221;). Unfortunately, classic adventures scare people away when we talk about money to invest and the situation, considering a project like ours, did not allow us to satisfy our favourite habit, that is, to live.</p>
+<p>We therefore interrupted the project to dedicate ourselves to our work, but we never stopped thinking about how to recover Blue Volta and complete its development. I don&#8217;t think that graphic adventures are dead, but it wasn&#8217;t feasible to develop Blue Volta in that capacity and with its features, so we decided to tell the same story with the same characters, changing the genre.</p>
+<p>Blue Volta is no longer a graphic adventure.</p>
+<p>Blue Volta is an adventure focused on plot, characters and choices, with pad control and platform exploration phases.</p>
+<p>Are you still here? Are you still interested?<br />
+Well, we have a newsletter for you (<a href="https://www.ossocubo.com/newsletter/">you can sign up here</a>).<br />
+Development is going great and we have a lot to tell.</p>
+<p>Meanwhile, I leave you with a screenshot.</p>
+<p>Luca</p>
+<h3></h3>
+<h3><strong>ITALIANO</strong></h3>
+<p>Sapevamo che sviluppare un gioco non sarebbe stato facile e che cercare qualcuno che finanziasse un’avventura grafica punta e clicca classica nel 2017 ci avrebbe fatto sudare parecchio, ma poi è successa una cosa che ci ha costretti a frenare e rivalutare il progetto nel complesso: la vita.</p>
+<p>Mi spiego meglio: tra il 2017 e il 2018 abbiamo contattato vari publisher in cerca di una base solida per poter sviluppare Blue Volta e sopravvivere (aka “mangiare i panini”). Purtroppo gli adventure classici spaventano quando si parla di soldi da investire e la situazione, davanti a un progetto come il nostro, non ci permetteva di soddisfare il nostro vizio preferito, ovvero campare.</p>
+<p>Abbiamo quindi interrotto il progetto per dedicarci ai nostri lavori, senza mai smettere di pensare a come recuperare Blue Volta e completarne lo sviluppo. Non penso che le avventure grafiche siano morte, ma non era fattibile sviluppare Blue Volta in quella veste e con le sue caratteristiche, così abbiamo deciso di raccontare la medesima storia con gli stessi personaggi, cambiandone il genere.</p>
+<p>Blue Volta non è più un’avventura grafica.</p>
+<p>Blue Volta è un adventure focalizzato su trama, personaggi e scelte, con controllo via pad e fasi d’esplorazione platform.</p>
+<p>Siete ancora qui? Siete ancora interessati?<br />
+Beh, abbiamo un newsletter apposta per voi (<a href="https://www.ossocubo.com/newsletter/">potete iscrivervi qui</a>) e vi giuriamo che non vi manderemo una notizia ogni tre anni.<br />
+Lo sviluppo sta andando alla grande e abbiamo tantissimo da raccontare.<br />
+Intanto vi lascio con uno screenshot.</p>
+<p>Luca</p>
+<p>The post <a href="https://www.ossocubo.com/blog/blue-volta-is-dead-long-live-blue-volta/">Blue Volta is dead, long live Blue Volta!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">651</post-id>	</item>
+	</channel>
+</rss>

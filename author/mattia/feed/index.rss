@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Mattia Pirini, Author at Ossocubo</title>
+	<atom:link href="https://www.ossocubo.com/author/mattia/feed/" rel="self" type="application/rss+xml" />
+	<link>https://www.ossocubo.com/author/mattia/</link>
+	<description>a small game development team from Switzerland and Italy.</description>
+	<lastBuildDate>Wed, 26 Jun 2019 14:30:43 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://www.ossocubo.com/wp-content/uploads/2014/05/ossocubo-skull-150x112.png</url>
+	<title>Mattia Pirini, Author at Ossocubo</title>
+	<link>https://www.ossocubo.com/author/mattia/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">103924507</site>	<item>
+		<title>screen printing!</title>
+		<link>https://www.ossocubo.com/blog/screen-printing/</link>
+		
+		<dc:creator><![CDATA[Mattia Pirini]]></dc:creator>
+		<pubDate>Mon, 17 Oct 2016 16:54:35 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[diy]]></category>
+		<category><![CDATA[merchandise]]></category>
+		<category><![CDATA[ossocubo]]></category>
+		<category><![CDATA[screen printing]]></category>
+		<guid isPermaLink="false">http://www.ossocubo.com/?p=299</guid>
+
+					<description><![CDATA[<p>we are working on some DIY merchandise, mostly screenprinted tees and posters. Here&#8217;s some photos!</p>
+<p>The post <a href="https://www.ossocubo.com/blog/screen-printing/">screen printing!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>we are working on some DIY merchandise, mostly screenprinted tees and posters.<br />
+Here&#8217;s some photos!</p>
+
+<a href='https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_1.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img decoding="async" width="150" height="150" src="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ossocubo logo frame" srcset="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_1-150x150.jpg 150w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_1-200x200.jpg 200w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_1-125x125.jpg 125w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_3.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img decoding="async" width="150" height="150" src="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="logo frame ink" srcset="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_3-150x150.jpg 150w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_3-200x200.jpg 200w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_3-125x125.jpg 125w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_5.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img decoding="async" width="150" height="150" src="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_5-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ossocubo printing" srcset="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_5-150x150.jpg 150w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_5-200x200.jpg 200w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_5-125x125.jpg 125w" sizes="(max-width: 150px) 100vw, 150px" /></a>
+<a href='https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_2.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img loading="lazy" decoding="async" width="150" height="150" src="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ossocubo printing" srcset="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_2-150x150.jpg 150w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_2-200x200.jpg 200w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_2-125x125.jpg 125w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+<a href='https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_4.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img loading="lazy" decoding="async" width="150" height="150" src="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_4-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="power washing" srcset="https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_4-150x150.jpg 150w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_4-200x200.jpg 200w, https://www.ossocubo.com/wp-content/uploads/2016/10/ossocubo-serigrafia-diy_4-125x125.jpg 125w" sizes="auto, (max-width: 150px) 100vw, 150px" /></a>
+
+<p>The post <a href="https://www.ossocubo.com/blog/screen-printing/">screen printing!</a> appeared first on <a href="https://www.ossocubo.com">Ossocubo</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">299</post-id>	</item>
+	</channel>
+</rss>
